@@ -1,0 +1,17 @@
+#+title: Notes
+
+
+* Todos [7/7]
+- [X] Navigationsbar i siden (ikke på index)
+  - [X] Venstre side
+  - [X] Skal kunne gå mellem sektioner
+- [X] Snappy til hver sektion
+  - [X] Diskret
+- [X] Navigationsbar i toppen (mellem sider)
+  - [X] Fixed
+- [X] Sub-grid på forsiden
+- [X] Kompas på forsiden
+  - [X] Svg baggrunden
+- [X] Forside footer
+  - [X] QR-kode
+- [X] Forside kasser a-tag

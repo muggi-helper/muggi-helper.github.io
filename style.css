@@ -1,0 +1,237 @@
+
+:root {
+    --text: #161d22;
+    --background: rgb(255, 241, 212);
+    --primary: rgb(207, 178, 138);
+    --secondary: rgba(253, 200, 125, 0.522);
+    --accent: #4d4b43;
+
+
+    /*
+     * Farveskema lavet her: https://www.realtimecolors.com/?colors=161d22-f5f6ea-51addb-63adcf-ffe461&fonts=Inter-Inter
+     */
+}
+
+
+
+body {
+    padding: 0;
+    margin: 0;
+    background-color: var(--background);
+    color: var(--text);
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.container {
+    width: 100wv;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+}
+
+.page-container {
+    width: 100vw;
+    height: 100vh;
+    padding: 0;
+    margin: 0;
+    display: grid;
+    grid-template-rows: 50px 1fr;
+    grid-template-columns: 10vw 1fr;
+    grid-template-areas:
+        "navbar navbar"
+        "minimap sections";
+}
+
+.sections {
+    grid-area: sections;
+    overflow-y: scroll;
+    margin: 0;
+    margin-left: 10px;
+    scroll-snap-type: y mandatory;
+    scroll-padding: 0px;
+
+    padding-top: 20px;
+
+    display: flex;
+    flex-direction: column;
+    gap: 5vh;
+
+
+    & > section {
+        scroll-snap-align: start;
+        scroll-padding-top: 2vh;
+
+
+    }
+}
+
+
+
+.categories {
+    display: flex;
+    flex-direction:  row;
+
+    margin: 10px 10px;
+    gap: 10px;
+
+    & section {
+        background-color: color-mix(in srgb, var(--primary), transparent 66%);
+
+        padding: 10px;
+        border-radius: 10px;
+        color: var(--text);
+
+        height: 100%;
+    }
+
+    & p {
+        text-align: left;
+    }
+
+    & a {
+        display: block;
+        width: 33%;
+        text-decoration: none;
+        height: 100%;
+    }
+
+    & a:hover {
+        transform: translate(0px, -5px);
+    }
+
+    & a:hover section {
+        color: var(--text);
+    }
+
+}
+
+h1 {
+    margin-bottom: 0;
+}
+h2 {
+    margin-top: 0;
+}
+
+.minimap {
+    grid-area: minimap;
+    background-color: linear-gradient(rgba(207, 178, 138, 1), rgba(255, 241, 212, 0.0));
+    color: var(--accent);
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+
+    gap: 20px;
+
+    list-style: none;
+    align-items: center;
+    padding: 20px;
+
+
+    text-align: center;
+
+    & a {
+        color: var(--accent);
+        text-decoration: none;
+        display: block;
+    }
+
+    & li:hover {
+        background-color: var(--accent);
+
+        & a {
+            color: var(--text);
+        }
+    }
+
+}
+
+.location {
+    color: var(--text);
+    text-decoration: none;
+}
+
+.navbar {
+    display: flex;
+    grid-area: navbar;
+
+    justify-content: space-around;
+    background-color: color-mix(in srgb, var(--primary), transparent 50%);
+
+    margin: 0;
+
+    & li {
+        display: block;
+        list-style: none;
+    }
+
+    & li:hover {
+        background-color: var(--accent);
+
+        & a {
+            color: var(--text);
+        }
+    }
+
+    & a {
+        padding: 15px 30px;
+        display: block;
+        text-decoration: none;
+        color: var(--accent);
+    }
+}
+
+header {
+    grid-area: header;
+    align-items: center;
+    text-align: center;
+    h2 {
+        font-style: italic;
+        font-size: medium;
+        padding-top: 0%;
+    }
+}
+
+footer {
+    text-align: center;
+    margin: 0;
+    margin-top: auto;
+    padding: 10px;
+    background-color: color-mix(in srgb, var(--primary), transparent 30%);
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    font-size: 1.1em;
+
+    & img {
+        border-radius: 10px;
+    }
+
+
+}
+
+
+.timeline {
+    grid-area: timeline;
+    text-align: center;
+}
+
+.borger {
+    grid-area: borger;
+    text-align: center;
+}
+
+.rådgiver {
+    grid-area: rådgiver;
+    text-align: center;
+}
+
+.arbejdsgiver {
+    grid-area: arbejdsgiver;
+    text-align: center;
+}
