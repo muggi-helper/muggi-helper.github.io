@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="83.799507mm"
+   height="40.168858mm"
+   viewBox="0 0 83.799507 40.168858"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   sodipodi:docname="tidslinje.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showguides="true"
+     inkscape:zoom="2.2797622"
+     inkscape:cx="193.66055"
+     inkscape:cy="82.903384"
+     inkscape:window-width="1888"
+     inkscape:window-height="1139"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="Triangle"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Lag 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-9.7403164,-4.4764909)">
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:0.264583"
+       x="9.7403164"
+       y="6.8894916"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="stroke-width:0.264583"
+         x="9.7403164"
+         y="6.8894916">Arbejdsgiver</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="9.7403164"
+         y="10.858241"
+         id="tspan2" /></text>
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.465;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle)"
+       d="M 10.163179,15.034785 H 91.888573"
+       id="path2" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.465;stroke-dasharray:none;stroke-opacity:1"
+       d="M 10.26817,12.116021 V 18.43651"
+       id="path3" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+       x="16.714649"
+       y="12.719681"
+       id="text3"><tspan
+         sodipodi:role="line"
+         id="tspan3"
+         style="font-size:2.11667px;stroke-width:0;stroke-dasharray:none"
+         x="16.714649"
+         y="12.719681">30 dage</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+       x="37.756916"
+       y="12.724971"
+       id="text4"><tspan
+         sodipodi:role="line"
+         id="tspan4"
+         style="stroke-width:0"
+         x="37.756916"
+         y="12.724971">Mulighed for fælles møde</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0"
+         x="37.756916"
+         y="15.370809"
+         id="tspan5" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+       x="76.517815"
+       y="12.681581"
+       id="text6"><tspan
+         sodipodi:role="line"
+         id="tspan6"
+         style="stroke-width:0"
+         x="76.517815"
+         y="12.681581">22 uger</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0"
+         x="76.517815"
+         y="15.327418"
+         id="tspan7" /></text>
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.3;stroke-dasharray:none;stroke-opacity:1"
+       d="m 20.620334,13.656877 v 2.750778"
+       id="path7" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.3;stroke-dasharray:none;stroke-opacity:1"
+       d="m 50.409927,13.656877 v 2.750778"
+       id="path8" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.3;stroke-dasharray:none;stroke-opacity:1"
+       d="m 80.818043,13.656877 v 2.750778"
+       id="path7-1" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+       x="18.743275"
+       y="17.553686"
+       id="text8"><tspan
+         sodipodi:role="line"
+         id="tspan8"
+         style="stroke-width:0.1;stroke-dasharray:none"
+         x="18.743275"
+         y="17.553686" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+       x="12.911388"
+       y="18.714258"
+       id="text9"><tspan
+         sodipodi:role="line"
+         id="tspan9"
+         style="font-size:2.11667px;stroke-width:0;stroke-dasharray:none"
+         x="12.911388"
+         y="18.714258">løn uden refusion</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 20.620334,21.070187 v 2.010592 h 70.389743"
+       id="path9" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
+       x="23.704731"
+       y="25.474606"
+       id="text10"><tspan
+         sodipodi:role="line"
+         id="tspan10"
+         style="stroke-width:0.5"
+         x="23.704731"
+         y="25.474606">Refusion eller borger overgår til SDP</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:0.264583"
+       x="9.7403164"
+       y="32.538181"
+       id="text12"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="9.7403164"
+         y="32.538181"
+         id="tspan12">Borger</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="9.7403164"
+         y="36.506931"
+         id="tspan21" /></text>
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.465;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle)"
+       d="M 10.163179,40.683476 H 91.888573"
+       id="path12" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.465;stroke-dasharray:none;stroke-opacity:1"
+       d="m 10.26817,37.764712 v 6.320489"
+       id="path13" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+       x="16.714649"
+       y="38.368374"
+       id="text13"><tspan
+         sodipodi:role="line"
+         id="tspan13"
+         style="font-size:2.11667px;stroke-width:0;stroke-dasharray:none"
+         x="16.714649"
+         y="38.368374">8 uger</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+       x="40.324432"
+       y="38.373661"
+       id="text15"><tspan
+         sodipodi:role="line"
+         id="tspan14"
+         style="stroke-width:0"
+         x="40.324432"
+         y="38.373661">8 uger - 6 måneder</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0"
+         x="40.324432"
+         y="41.019497"
+         id="tspan15" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+       x="76.517815"
+       y="38.330273"
+       id="text17"><tspan
+         sodipodi:role="line"
+         id="tspan16"
+         style="stroke-width:0"
+         x="76.517815"
+         y="38.330273">22 uger</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0"
+         x="76.517815"
+         y="40.976109"
+         id="tspan17" /></text>
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.3;stroke-dasharray:none;stroke-opacity:1"
+       d="m 20.620334,39.305568 v 2.750778"
+       id="path17" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.3;stroke-dasharray:none;stroke-opacity:1"
+       d="m 50.409927,39.305568 v 2.750778"
+       id="path18" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.3;stroke-dasharray:none;stroke-opacity:1"
+       d="m 80.818043,39.305568 v 2.750778"
+       id="path19" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+       x="15.629999"
+       y="44.362949"
+       id="text19"><tspan
+         sodipodi:role="line"
+         id="tspan19"
+         style="font-size:2.11667px;stroke-width:0;stroke-dasharray:none"
+         x="15.629999"
+         y="44.362949">1. samtale</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;stroke-width:0;stroke-dasharray:none"
+         x="15.629999"
+         y="47.008785"
+         id="tspan22" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+       x="45.41959"
+       y="44.362949"
+       id="text24"><tspan
+         sodipodi:role="line"
+         id="tspan23"
+         style="font-size:2.11667px;stroke-width:0;stroke-dasharray:none"
+         x="45.41959"
+         y="44.362949">3 samtaler</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;stroke-width:0;stroke-dasharray:none"
+         x="45.41959"
+         y="47.008785"
+         id="tspan24" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
+       x="74.850868"
+       y="44.137348"
+       id="text25"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.5"
+         x="74.850868"
+         y="44.137348"
+         id="tspan26">Revurdering</tspan></text>
+  </g>
+</svg>
